@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Menyusun proposal tugas akhir",
+    "description": "Buat outline bab 1-3 dan konsultasikan ke dosen pembimbing.",
+    "status": "belum",
+    "createdAt": "2026-08-01T08:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Belajar Next.js App Router",
+    "description": "Pelajari server component, client component, dan route handler.",
+    "status": "proses",
+    "createdAt": "2026-08-03T09:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Kumpulkan tugas Pengembangan Web",
+    "description": "Aplikasi Task Manager dengan Next.js.",
+    "status": "selesai",
+    "createdAt": "2026-08-05T14:00:00.000Z"
+  }
+]
